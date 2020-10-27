@@ -7,7 +7,7 @@ beautifulsoup4==4.5.3
 Bottleneck==1.2.1
 cffi==1.11.5
 cloudpickle==0.5.2
-cryptography==2.3
+cryptography==3.2
 cycler==0.10.0
 Cython==0.28.5
 dask==0.17.4
