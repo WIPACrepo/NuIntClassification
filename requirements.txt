@@ -47,7 +47,7 @@ pickleshare==0.7.4
 Pillow==6.2.0
 prompt-toolkit==1.0.9
 ptyprocess==0.5.1
-py==1.5.4
+py==1.10.0
 pycparser==2.18
 pycurl==7.43.0
 pyFFTW==0.10.4
