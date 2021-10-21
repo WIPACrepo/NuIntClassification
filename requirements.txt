@@ -1,7 +1,7 @@
 alabaster==0.7.10
 asn1crypto==0.22.0
 astropy==3.0.4
-Babel==2.4.0
+Babel==2.9.1
 backcall==0.1.0
 beautifulsoup4==4.5.3
 Bottleneck==1.2.1
