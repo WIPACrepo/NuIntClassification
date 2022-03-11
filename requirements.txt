@@ -44,7 +44,7 @@ pandas==0.23.4
 partd==0.3.8
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==6.2.0
+Pillow==9.0.1
 prompt-toolkit==1.0.9
 ptyprocess==0.5.1
 py==1.5.4
