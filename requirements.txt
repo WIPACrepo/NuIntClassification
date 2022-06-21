@@ -38,7 +38,7 @@ nbformat==4.1.0
 networkx==2.1
 notebook==5.5.0
 numexpr==2.6.8
-numpy==1.14.3
+numpy==1.22.0
 packaging==17.1
 pandas==0.23.4
 partd==0.3.8
